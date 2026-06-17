@@ -5,10 +5,6 @@ let num2=12;
 let num =num1+num2;
 let age=25;
 let userage=20;
-const warn=() =>{
-  alert 
-};
-
  return (
     <div>
     {
@@ -18,7 +14,7 @@ const warn=() =>{
     <h1 style={{color:"blue"}}>Page for {name}</h1>
     <div style={{display:"flex"}}>
     <img style={{width:200}}
-    src="https://i.pinimg.com/236x/c6/23/5f/c6235f43f5b6d831ab65f1dbd25be0e4.jpg" alt="Birds" />
+    src="https://i.pinimg.com/736x/46/ad/37/46ad37b4ef8971da79c0ce547d79d430.jpg" alt="Birds" />
     <p className="Avian">Birds are a group of warm-blooded vertebrate animals constituting the class Aves, characterised by feathers, toothless beaked jaws, the laying of hard-shelled eggs, a high metabolic rate, a four-chambered heart,
        and a strong yet lightweight skeleton.Birds live worldwide and range in size from the <b><u>{num}</u></b> (2.2 in) bee hummingbird to the 2.8 m (9 ft 2 in) common ostrich. There are over 11,000 living species and they are split into 44 orders.
         More than half are passerine or "perching" birds. Birds have wings whose development varies according to species; the only known groups without wings are the extinct moa and elephant birds. Wings, which are modified forelimbs, 
