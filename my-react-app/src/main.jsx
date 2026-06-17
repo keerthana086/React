@@ -1,11 +1,9 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import './index.css'
-import Classic from './Classic.jsx'
+import Ref from "./events.jsx"
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <Classic></Classic>
+    <Ref></Ref>
   </StrictMode>,
 )
-export default Classic;
